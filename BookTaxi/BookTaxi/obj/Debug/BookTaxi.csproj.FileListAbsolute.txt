@@ -1,0 +1,10 @@
+M:\Downloads\Programming\BookTaxi\BookTaxi\obj\Debug\BookTaxi.csproj.AssemblyReference.cache
+M:\Downloads\Programming\BookTaxi\BookTaxi\obj\Debug\BookTaxi.frmMainMenu.resources
+M:\Downloads\Programming\BookTaxi\BookTaxi\obj\Debug\BookTaxi.Properties.Resources.resources
+M:\Downloads\Programming\BookTaxi\BookTaxi\obj\Debug\BookTaxi.csproj.GenerateResource.cache
+M:\Downloads\Programming\BookTaxi\BookTaxi\obj\Debug\BookTaxi.csproj.CoreCompileInputs.cache
+M:\Downloads\Programming\BookTaxi\BookTaxi\bin\Debug\BookTaxi.exe.config
+M:\Downloads\Programming\BookTaxi\BookTaxi\bin\Debug\BookTaxi.exe
+M:\Downloads\Programming\BookTaxi\BookTaxi\bin\Debug\BookTaxi.pdb
+M:\Downloads\Programming\BookTaxi\BookTaxi\obj\Debug\BookTaxi.exe
+M:\Downloads\Programming\BookTaxi\BookTaxi\obj\Debug\BookTaxi.pdb
